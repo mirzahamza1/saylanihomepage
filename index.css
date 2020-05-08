@@ -1,0 +1,345 @@
+
+/*-------------------------------- navbar */
+
+li
+{
+    display: inline;
+    
+}
+
+
+.mainnav
+{
+    
+    /* display: flex; */
+    position: absolute;
+    top: 46px;
+    background-color:#F7F8FA;
+    width: 1210px;
+    height: 50px;
+    
+}
+
+.navbar
+{
+    display: flex; justify-content: space-between; justify-content: flex-end;
+}
+
+#home
+{
+    position: absolute;
+    left: 530px;
+}
+
+#about
+{
+    position: absolute;
+    left: 600px;
+}
+
+#saylaniservices
+{
+    position: absolute;
+    left: 680px;
+}
+
+#future
+{
+    position: absolute;
+    left: 810px;
+}
+
+#media
+{
+    position: absolute;
+    left: 930px;
+}
+
+#news
+{
+    position: absolute;
+    left: 990px;
+}
+
+#donations
+{
+    position: absolute;
+    left: 1050px;
+}
+
+.logo1
+{
+    position: absolute;
+    left: 80px;
+}
+
+/*----------------------------- headbar */
+
+.headtext
+{
+    text-align: center;
+    position: relative;
+    top: 14px;
+    color: white;
+}
+
+.mainhead
+{
+background-color:#316DC3 ; height: 45px;
+width: 100%;
+position: relative;
+top: -16px ;
+}
+
+.button1
+{
+    position: relative;
+    left: 910px;
+    top: -24px;
+    background-color:#F5F5F5;
+    border: none;
+    padding: 04px 08px ;
+    text-align: center;
+    font-size: 12px;
+    
+}
+.button2
+{
+    position: relative;
+    left: 910px;
+    top: -24px;
+    background-color:#F5F5F5;
+    border: none;
+    padding: 04px 08px ;
+    text-align: center;
+    font-size: 12px;
+}
+.button3
+{
+    position: relative;
+    left: 911px;
+    top: -24px;
+    background-color:#F5F5F5;
+    border: none;
+    padding: 04px 08px ;
+    text-align: center;
+    font-size: 12px;
+
+}
+
+.fb
+{
+    position: relative;
+    top: -70px;
+    left: 78px;
+    
+}
+.tw
+{
+    position: relative;
+    top: -77px;
+    left: 63px;
+}
+.ins
+{
+    position: relative;
+    top: -81px;
+    left: 69px ;
+}
+.you
+{
+    position: relative;
+    top: -64px;
+    left: 58px ;
+}
+.what
+{
+    position: relative;
+    top: -75px;
+    left: 42px;
+}
+
+/*----------------------- slidebar */
+
+.slider
+{
+position: relative;
+top: -24px;
+}
+
+.newsslider
+{
+    background-color: #316DC3;
+    color: white;
+    text-align: center;
+    height: 22px;
+    position: relative;
+    top: -38px;
+    
+}
+
+/* --------------------introduction passage  */
+
+.introbody
+{
+  background-color:#F7F8FA ;
+  position: relative;
+  top: -54px;
+  height: 680px;
+   
+  
+}
+
+.intro
+{
+position: relative;
+right: -444px;    
+top: 58px;
+color:#316DC3 ;
+font-family: 'Courier New', Courier;
+font-size: 230%;
+}
+.duction
+{
+    position: relative;
+    right: -557px;    
+    top: -08px ;
+    color:#427900 ;
+    font-family: 'Courier New', Courier;
+    font-size: 230%;
+}
+.saylanisymbol
+{
+    position: relative;
+    right: -550px ;
+    top: -65px ;
+    height: 38px ;
+    width: 38px ;
+}
+
+.line1
+{
+    color: #427900 ;
+    position: relative;
+    top: -16px ; right: -506px ;
+    
+}
+.line2
+{
+    color: #427900 ;
+    position: relative;
+    top:-109px ; right: -600px ;
+}
+
+.introtext
+{
+    text-align: justify;
+    background-color:#F7F8FA;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    height:400px ;
+    width: 900px;
+    position: relative;
+    top: -100px;
+    right: -140px;
+    font-size: 88%;
+    color:#979898 ;
+
+}
+
+/*------------------------------------- statusbar */
+
+.statusbar
+{
+  position: relative;
+  top: -120px;
+}
+
+.statusnumber
+{
+    background-color:#2755E9 ;
+    height: 250px;
+    /* position: relative;
+    top: -55px; */
+    color: white;
+    /* display: flex; */
+    /* justify-content: space-around; */
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.a{
+    position: relative;
+    top: 105px;
+    right: -80px;
+}
+.b{
+    position: relative;
+    top: -25px;
+    right: -385px;
+}
+.c{
+    position: relative;
+    top: -153px;
+    right: -640px;
+}
+.d{
+    position: relative;
+    top: -283px;
+    right: -900px;
+}
+
+.food
+{
+    position: relative;
+    top: -185px;
+    right: -160px;
+}
+.family
+{
+    position: relative;
+    top: -185px;
+    right: -400px;
+}
+.medical
+{
+    position: relative;
+    top: -185px;
+    right: -630px;
+}
+.education
+{
+    position: relative;
+    top: -185px;
+    right: -860px;
+    
+}
+
+.dd
+{
+ position: relative;
+ top: -130px;
+ right: -40px;
+}
+.fa
+{
+ position: relative;
+ top: -170px;
+ right: -340px;
+}
+.me
+{
+ position: relative;
+ top: -209px;
+ right: -640px;
+}
+.ed
+{
+ position: relative;
+ top: -248px;
+ right: -900px;
+}
+
+
+
+
